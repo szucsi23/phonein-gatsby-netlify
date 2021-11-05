@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Phonein RedPill
 tagline: Down the doorbell rabbit hole
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/Table_with_devices.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
