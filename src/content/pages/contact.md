@@ -4,6 +4,9 @@ slug: /contact
 title: Get in touch
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Do you want to know more about Phonein?
+Check out our [site](https://www.phonein.io/)!
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+If you need info about the install, or other technical details, check out our [Documentation](https://docs.phonein.io/) page!
+
+Also if you have any questions, feel free to [contact](contact@phonei.io) us!

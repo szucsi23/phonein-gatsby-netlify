@@ -21,10 +21,9 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Oops we did not expect that to happen</h1>
+        <h1>Ah, you're a curious one, I like you!</h1>
         <p>
-          Have you wondered into the unknow. Let us help you, Please take a look
-          at below options
+          Sadly there is nothing to see here. (Or is there???)
         </p>
       </header>
       <Link to="/" className="button">
