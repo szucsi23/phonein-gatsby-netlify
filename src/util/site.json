@@ -5,7 +5,8 @@
     "description": "A site for the ones who are not afraid to delve deep into the world of doorbells.",
     "siteUrl": "https://phonein.io",
     "image": "/assets/PhoneIn_ico.png",
-    "iconimage": "/assets/PhoneIn_ico.png"
+    "iconimage": "/assets/PhoneIn_ico.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
