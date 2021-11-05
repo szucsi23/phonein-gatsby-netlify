@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Phonein RedPill
+tagline: Down the doorbell rabbit hole
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+A site for the ones who are not afraid to delve deep into the world of doorbells.
